@@ -378,6 +378,12 @@ details {
                     <li><a href="../avalonminer/A12X#avalon-1246-stock">Avalon 1246 (Stock)</a></li>
                 </ul>
         </details>
+        <details>
+            <summary>nano Series:</summary>
+                <ul>
+                    <li><a href="../avalonminer/nano#avalon-nano-3-stock">Avalon Nano 3 (Stock)</a></li>
+                </ul>
+        </details>
     </ul>
 </details>
 <details>
@@ -470,6 +476,7 @@ details {
             <summary>X21 Series:</summary>
                 <ul>
                     <li><a href="../antminer/X21#s21-bos_1">S21 (BOS+)</a></li>
+                    <li><a href="../antminer/X21#t21-bos_1">T21 (BOS+)</a></li>
                 </ul>
         </details>
     </ul>
